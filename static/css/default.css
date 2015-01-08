@@ -1,0 +1,89 @@
+*{
+	margin: 0px;
+	padding:0px;
+	font-family: "微软雅黑"；
+}
+.top_box{
+	width: 100%;
+
+}
+.top_Statistics{
+	float: left;
+	margin: 30px 0 0 120px;
+	background-color:#35bbfa;
+	width: 300px;
+	border-radius: 5px;
+
+}
+.top_solid{
+	background-image: url(../images/top_solid.png);
+}
+.top_Statisticsone{
+	border-radius: 5px;
+	float: left;
+	width:149px;;
+	height: 60px;
+	background-color:#35bbfa; 
+
+}
+.top_Statisticsone:hover{
+	background-color: #0384b4;
+}
+.top_Statisticstwo{
+	border-radius: 5px;
+	float: right;
+	width:149px;
+	height: 60px;
+	background-color:#35bbfa; 
+
+}
+.top_Statisticstwo:hover{
+	background-color: #0384b4;
+}
+.stone{
+  	padding-top: 5px;
+	font-size: 25px;
+	color: #fff;
+	text-align: center;
+	font-style: normal;
+	font-weight: 400;
+}
+.stoneone{
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+		font-weight: 400;
+}
+.top_rightxk{
+	margin: 30px 180px 0 0;
+	float: right;
+	width: 200px;
+	height: 60px;
+	border-radius: 5px;
+	background-color: #12e402;
+}
+.clear{
+	clear:both;
+}
+.middle{
+	margin: 0 auto;
+	margin-top: 40px;
+	width: 98%;
+	height:450px;
+	background-color: #fff;
+	border: 1px solid #adaeae;
+}
+.middle_top{
+	border: 1px solid #adaeae;
+	width: 100%;
+	height: 8%;
+	background-color: #f5f6f7;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+.middle_xtgg{
+	line-height: 35px;
+	margin-left: 20px;
+	font-size: 14px;
+}

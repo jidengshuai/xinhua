@@ -1,0 +1,16 @@
+*{margin: 0px;padding: 0px;}
+body{background: #5A6A7A;}
+div.vv{ position:relative;background: #fff;width: 25%;height:270px;margin: 150px auto 0;border-radius: 5px;}
+div.logo img.l{width: 6%;margin-left: 10px;float: left;margin-top: 5px;}
+div img.dd{width: 30%;float: left;margin-top: 5px;}
+div.logo .ee{width: 100%;height: 50px;line-height: 50px;color: #888;font-size: 20px;font-weight: bold;float: right;text-align: center;}
+div.ll{width: 90%;height: 200px;margin: 0 auto;line-height: 50px;}
+form input.jj{width: 100%;height: 25px;border: 1px solid #888;}
+form label{font-size: 12px;color: #999;}
+.aa{font-size: 12px;color: #fff;background: #1BA593;border: 1px solid #1BA593;padding: 5px 15px;margin-left: 100px;width: 75px;height:30px;  border-radius: 5px; box-shadow: 0px 0px 0px #1BA593;}
+div.kk{color: #ccc;margin: 0 auto;width: 90%;font-size: 10px;text-align: center;}
+.aa:hover{box-shadow: 0px 0px 3px #1BA593;}
+
+.error{
+	text-align:center; line-height: 50px; font-size:14px; color:red;
+}
